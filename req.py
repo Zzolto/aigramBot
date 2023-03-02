@@ -25,3 +25,4 @@ async def cmd_start(message: types.Message) -> None:
 print("Changes were done by Zolto")
 print("zz-1")
 print("new_feature")
+print("for pull")
