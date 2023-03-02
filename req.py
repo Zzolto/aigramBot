@@ -9,4 +9,5 @@ storage = MemoryStorage()
 bot = Bot(TOKEN_API)
 dp = Dispatcher(bot=bot,
                 storage =storage)
+print("sd")
 
