@@ -1,2 +1,5 @@
+from req import *
+
 if __name__ == '__main__':
-    print('PyCharm')
+    executor.start_polling(dp,
+                           skip_updates=True)
