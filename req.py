@@ -23,3 +23,4 @@ async def cmd_start(message: types.Message) -> None:
                          reply_markup=get_keyboard())
 
 print("Changes were done by Zolto")
+print("zz-1")
